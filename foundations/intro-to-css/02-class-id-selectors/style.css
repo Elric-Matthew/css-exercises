@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+p {    
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  color: #020101;
+  background-color: #ffa7a7;
+}
+
+#abcd {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#yet-another {
+  background-color: #80ff80;
+  color: #000000;
+  font-size: 24px;
+  font-weight: bold;
+}
